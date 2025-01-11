@@ -15,7 +15,7 @@
 const ibukun = {
     name: "Adejokun Ibukunoluwa",
     location: "Lagos, Nigeria",
-    role: "Web Developer",
+    role: "Software Developer",
     specialization: ["Frontend Development", "UI/UX", "Full Stack"],
     currentlyLearning: "Generative Ai",
     workingOn: "Web County, [Redacted]",
