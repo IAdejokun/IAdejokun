@@ -40,15 +40,6 @@ const ibukun = {
 
 </div>
 
-### 🌟 Featured Projects
-
-```ascii
-📂 Feedback Analyzer for Lecturers
-└── 🔧 Tech Stack: Angular, Django REST Framework, PostgreSQL
-└── 🎯 Status: Ongoing
-└── 📝 Description: A web-based platform for analyzing student feedback
-```
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -57,21 +48,6 @@ const ibukun = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAdejokun&layout=compact&theme=tokyonight)
 
 </div>
-
-###
-
-<h3 align="left">🔥   More Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-</div>
-
 
 ### 🤝 Let's Connect!
 
