@@ -2,6 +2,8 @@
   
 # ⭐ Welcome to Ibukun's Coding Universe! ⭐
 
+</div>
+
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Angular+Specialist;Python+%2B+Django+Developer;Learning+Never+Stops!)
