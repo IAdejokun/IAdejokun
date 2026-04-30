@@ -19,10 +19,10 @@
 const ibukun = {
     name: "Adejokun Ibukunoluwa",
     location: "Lagos, Nigeria",
-    role: "Software Developer",
+    role: "Software Developer","Comp.Sci Reseacher"
     specialization: ["Frontend Development", "UI/UX", "Full Stack"],
     currentlyLearning: "Generative Ai",
-    workingOn: "Web County, [Redacted]",
+    workingOn: "Secure Vault, [Redacted]",
     education: {
         current: "MSc Computer Science @ Redeemers University",
         completed: "BSc Computer Science @ Redeemers University"
