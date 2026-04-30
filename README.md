@@ -69,4 +69,4 @@ const ibukun = {
   
 *"The code may be strong with this one, but the learning never ends!"*
 
-![Visitor Count](https://profile-counter.glitch.me/IAdejokun/count.svg)
+
