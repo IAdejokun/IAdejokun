@@ -1,63 +1,61 @@
-<div align="center">
-  
-# ⭐ Welcome to Ibukun's Coding Universe! ⭐
+<a href="https://founder.thegrandline.com.ng">
+  <img src="./banner.jpg" alt="Ibukunoluwa Adejokun. Software, AI & deep learning. Founder, The Grand Line." width="100%" />
+</a>
 
-</div>
+<p align="center">
+  <a href="https://founder.thegrandline.com.ng"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://thegrandline.com.ng"><b>The Grand Line</b></a> &nbsp;·&nbsp;
+  <a href="https://founder.thegrandline.com.ng/pricing">Work with me</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/adejokun-ibukunoluwa/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:adejokunibk@gmail.com">Email</a>
+</p>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Angular+Specialist;Python+%2B+Django+Developer;Learning+Never+Stops!)
+## Hi, I'm Ibukunoluwa
 
-*"In the world of Software Development, my mission is to architect solutions and transform challenges into innovative software that makes a difference!"*
+Full-stack engineer in Lagos, focused on software and AI: machine learning and deep learning built into products real people use. Security runs underneath everything I build.
 
-</div>
+I founded **[The Grand Line](https://thegrandline.com.ng)**, a product & creative studio. We design, build and animate digital products, websites, brands and motion, for our own products and for clients.
 
----
+- **Now:** running The Grand Line and shipping its products
+- **Studying:** MSc Computer Science, Redeemer's University (BSc there too)
+- **Open to:** freelance builds, consulting and full-time roles
 
-### 💫 About Me
-```typescript
-const ibukun = {
-    name: "Adejokun Ibukunoluwa",
-    location: "Lagos, Nigeria",
-    role: "Software Developer","Comp.Sci Reseacher"
-    specialization: ["Frontend Development", "UI/UX", "Full Stack"],
-    currentlyLearning: "Generative Ai",
-    workingOn: "Secure Vault, Smart Cart",
-    education: {
-        current: "MSc Computer Science @ Redeemers University",
-        completed: "BSc Computer Science @ Redeemers University"
-    }
-};
-```
+## Selected work
 
-### 🔮 Tech Arsenal
+| Project | What it is | Status |
+| --- | --- | --- |
+| **[Parallel](https://parallel-ng.vercel.app/)** | FX intelligence for Nigeria: what your money is truly worth across every channel, and the best way to move it | Live |
+| **[DSGN.THIZKID](https://dsgn-thizkid.vercel.app/)** | Portfolio for an Ibadan visual designer and creative director | Live |
+| **Landing** | Cross-border assisted import for traders: source abroad, track every leg, land goods in Lagos | In development |
+| **[The Grand Line](https://thegrandline.com.ng)** | The studio's own site: interactive hero, filterable work, live pricing estimator | Live |
 
-<div align="center">
+<sub>From the archive: <a href="https://github.com/iadejokun/smartcart">SmartCart AI</a> (a recommendation engine that learns as you shop) and <a href="https://github.com/iadejokun/securevault">SecureVault</a> (an API key manager for legacy systems). Full write-ups on the <a href="https://founder.thegrandline.com.ng/archive">archive page</a>.</sub>
 
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | | |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | | |
+## Toolkit
 
-</div>
+**Frontend**&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### 🤝 Let's Connect!
+**Backend**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adejokunsporfolio.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejokun-ibukunoluwa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adejokunibk@gmail.com)
+**AI / ML**&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</div>
+**Ship it**&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+## Work with me
 
-<div align="center">
-  
-*"The code may be strong with this one, but the learning never ends!"*
-
-
+Building something where software and AI meet? Packages, prices (in naira) and a free discovery call are on **[founder.thegrandline.com.ng/pricing](https://founder.thegrandline.com.ng/pricing)**, or email **[adejokunibk@gmail.com](mailto:adejokunibk@gmail.com)**.
