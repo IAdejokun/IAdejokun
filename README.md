@@ -32,6 +32,7 @@ I founded **[The Grand Line](https://thegrandline.com.ng)**, a product & creativ
 | Project | What it is | Status |
 | --- | --- | --- |
 | **[Parallel](https://parallel-ng.vercel.app/)** | FX intelligence for Nigeria: what your money is truly worth across every channel, and the best way to move it | Live |
+| **[Journal Management System](https://thegrandline.com.ng/work/journal-management-system)** | Submission, double-blind peer review and publishing for university faculty journals, designed for phones first | In development |
 | **Landing** | Cross-border assisted import for traders: source abroad, track every leg, land goods in Lagos | In development |
 | **[The Grand Line](https://thegrandline.com.ng)** | The studio's own site: interactive hero, filterable work, live pricing estimator | Live |
 
