@@ -14,6 +14,13 @@
 
 Full-stack engineer in Lagos, focused on software and AI: machine learning and deep learning built into products real people use. Security runs underneath everything I build.
 
+<a href="https://thegrandline.com.ng">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/the-grand-line-lockup-on-dark.svg" />
+    <img src="./assets/the-grand-line-lockup-on-light.svg" alt="The Grand Line" width="220" />
+  </picture>
+</a>
+
 I founded **[The Grand Line](https://thegrandline.com.ng)**, a product & creative studio. We design, build and animate digital products, websites, brands and motion, for our own products and for clients.
 
 - **Now:** running The Grand Line and shipping its products
